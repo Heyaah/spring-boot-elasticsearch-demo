@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/potter/elasticsearch/base/config/SwaggerConfig.java=UTF-8
+encoding//src/main/java/com/potter/elasticsearch/city/base/ResultData.java=UTF-8
+encoding//src/main/java/com/potter/elasticsearch/city/repository/CityRepository.java=UTF-8
+encoding//src/main/java/com/potter/elasticsearch/city/service/CityESServiceImpl.java=UTF-8
+encoding//src/main/java/com/potter/elasticsearch/city/service/CityService.java=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding/<project>=UTF-8
